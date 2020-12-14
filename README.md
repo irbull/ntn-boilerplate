@@ -4,7 +4,8 @@
 
 **[Live Demo](https://ntn-boilerplate.netlify.app/)**
 
-An opinionated starter template for a quick start with the following technologies up on a site after only 5 minutes!
+Helklo Worlkd
+
 
 ![NTN Boilerplate Screenshot](https://user-images.githubusercontent.com/770560/92640923-4a36fa80-f2de-11ea-8f96-a7bca7b1e0cc.png)
 
